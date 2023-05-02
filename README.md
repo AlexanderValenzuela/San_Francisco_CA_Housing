@@ -9,7 +9,7 @@ The primary goal of this project is to create a Proptech application that would 
 
 `python 3.9.12`<br>
 `pandas 1.4.2`<br>
-`Path`
+`Path`<br>
 `hvplot 0.73`
 
 
